@@ -2,6 +2,7 @@
 Retira os caracteres especiais em JS
 
 //Function SlugFy
+
 function slugify(str) {
 
       // Converte o texto para caixa baixa:
@@ -29,4 +30,5 @@ function slugify(str) {
 
       return str;
 };
+
 //Function SlugFy
